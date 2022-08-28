@@ -1,0 +1,22 @@
+table{
+	margin-top: 90px;
+	text-align: center;
+	background: rgb(117, 5, 161);
+	color: yellow;
+}
+
+#show th, #show td{
+	padding: 20px;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	color: #FFF;
+	background-color: var(--dark);
+	background-image: url("123.jpg");
+	background-repeat: no-repeat;
+	background-size: auto;
+	
+}
